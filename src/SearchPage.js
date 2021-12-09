@@ -4,9 +4,9 @@ import './SearchPage.css'
 function SearchPage ()  {
     return (
         <div className="search_page">
-            
-            <div className="searchPage_info">
 
+            <div className="searchPage_info">
+                
             </div>
 
         </div>
